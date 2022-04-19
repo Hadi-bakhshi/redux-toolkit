@@ -1,24 +1,24 @@
 {
   "todos": [
     {
-      "id": 1,
+      "completed": false,
       "title": "todo 1",
-      "completed": true
+      "id": 1
     },
     {
-      "completed": false,
+      "completed": true,
       "title": "todo 2",
       "id": 2
     },
     {
-      "completed": false,
+      "completed": true,
       "title": "todo 3",
       "id": 3
     },
     {
-      "id": 1650354772652,
+      "completed": true,
       "title": "todo 4",
-      "completed": false
+      "id": 1650354772652
     }
   ]
 }
