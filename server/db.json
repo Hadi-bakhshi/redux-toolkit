@@ -6,17 +6,17 @@
       "id": 1
     },
     {
-      "completed": true,
+      "completed": false,
       "title": "todo 2",
       "id": 2
     },
     {
-      "completed": true,
+      "completed": false,
       "title": "todo 3",
       "id": 3
     },
     {
-      "completed": true,
+      "completed": false,
       "title": "todo 4",
       "id": 1650354772652
     }
